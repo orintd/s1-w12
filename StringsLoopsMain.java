@@ -1,5 +1,6 @@
 public class StringsLoopsMain{
     public static void main(String[] args) {
-        new StringsLoops();
+        StringsLoops a = new StringsLoops();
+        System.out.println(a.interweaving("Wolfisagoon", "Ethansotuff"));
     }
 }
